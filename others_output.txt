@@ -12014,12 +12014,11 @@ ZÉ BUSCAPÉ,https://stream1.freetv.fun/0e2c0d32d03fa0a6cde6db6bdfcd6633b0ca2475
 
 
 ◆◆◆　https://raw.githubusercontent.com/cymz6/AutoIPTV-Hotel/main/lives.txt
-旅游卫视,http://36.136.38.87:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
-卡酷卡通,http://36.136.38.87:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+中国教育,http://115.48.161.98:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+北京少儿,http://115.48.161.98:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 广西影视,http://36.136.38.87:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 广西新闻,http://36.136.38.87:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 广西综艺,http://36.136.38.87:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-广西都市,http://36.136.38.87:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 ◆◆◆　https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt
@@ -12566,6 +12565,9 @@ TOKYOMX,http://fm1077.serv00.net/Smart.php?id=tokyomx_japan
 
 
 ◆◆◆　https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt
+四川卫视,http://115.48.161.98:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://115.48.161.98:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+灵宝新闻综合,http://115.48.161.98:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 ◆◆◆　https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
